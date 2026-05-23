@@ -1,0 +1,6 @@
+customer_name       = "zedas-demo"
+azure_region        = "norwayeast"
+vm_size             = "Standard_B1s"
+admin_username      = "azureuser"
+ssh_public_key_path = "~/.ssh/zedas_id_rsa.pub"
+allowed_ssh_ip      = "YOUR_IP_ADDRESS/32"
